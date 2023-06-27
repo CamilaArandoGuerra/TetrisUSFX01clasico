@@ -1,0 +1,3 @@
+D:\examen final tetris\Examen_Primer_Parcial-master\Intermediate\Build\Win64\UE4Editor\DebugGame\TetrisUSFX01\Definitions.TetrisUSFX01.h
+D:\examen final tetris\Examen_Primer_Parcial-master\Source\TetrisUSFX01\Block.h
+D:\examen final tetris\Examen_Primer_Parcial-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Block.generated.h
